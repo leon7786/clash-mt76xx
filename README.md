@@ -21,7 +21,7 @@ sh /tmp/clash/shart.sh
 
 浏览器访问下面切换节点
 http://192.168.2.1:9999/ui/#/proxies
-
+192.168.2.1 2.1改成你的ip
 
 sh脚本，把53端口转发给clash的dns服务器
 dns上游连接海外dns服务器抗污染
