@@ -8,7 +8,8 @@ chmod+x *
 
 #修改config.yaml配置文件
 
-里面预设了6个服务器位置。删掉改成你的节点信息（支持SOCKS HTTP SS V2RAY TROJAN,参考clash模板）
+里面预设了6个服务器位置。改成你的节点信息(保持6个不增不减，因为clash模板固定为1-6)
+（支持SOCKS HTTP SS V2RAY TROJAN,参考clash模板）
 
 保存退出后
 
