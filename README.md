@@ -45,3 +45,5 @@ dns上游连接海外dns服务器抗污染
 
 ps：支持放在U盘，改一下start.sh（搜tmp字段修改）
 集成进去16MB固件毫无压力。后期看能不能集成进去8M ROM
+
+*感谢shellclash提供的灵感源泉
