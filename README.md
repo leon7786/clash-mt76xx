@@ -33,7 +33,9 @@ dns上游连接海外dns服务器抗污染
 
 #性能
 试过K1/K2 64M RAM稳定几天不重启 2.6MB预编译文件启动消耗10MB左右RAM
+
 K1/K2 油管峰值1.1w
+
 K2P Padavan双核MT76XX 油管峰值2.8w
 
 ps：支持放在U盘，改一下start.sh（搜tmp字段修改）
