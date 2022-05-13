@@ -1,4 +1,5 @@
-#K1/K2、K2P跑Clash性能
+#K1/K2、K2P跑Clash
+
 试过K1 64MRAM稳定几天不重启 
 
 2.6MB预编译文件启动消耗10MB左右RAM
